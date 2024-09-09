@@ -136,7 +136,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-merge-in-between-linked-lists](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1765-merge-in-between-linked-lists) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2299-merge-nodes-in-between-zeros) |
-| [2573-remove-nodes-from-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
@@ -148,7 +147,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1013-fibonacci-number) |
-| [2573-remove-nodes-from-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2573-remove-nodes-from-linked-list) |
 ## String
 |  |
 | ------- |
@@ -190,7 +188,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
-| [2573-remove-nodes-from-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2573-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -278,8 +275,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1013-fibonacci-number) |
-## Monotonic Stack
-|  |
-| ------- |
-| [2573-remove-nodes-from-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
