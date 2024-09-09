@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0908-middle-of-the-linked-list) |
+| [2128-reverse-prefix-of-word](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1970-sorting-the-sentence) |
+| [2128-reverse-prefix-of-word](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2128-reverse-prefix-of-word](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
