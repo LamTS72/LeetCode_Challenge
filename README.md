@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0160-intersection-of-two-linked-lists) |
+| [0782-jewels-and-stones](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0822-unique-morse-code-words) |
@@ -28,7 +29,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2406-decode-the-message](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2406-decode-the-message) |
-| [3412-permutation-difference-between-two-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3412-permutation-difference-between-two-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0782-jewels-and-stones](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0822-unique-morse-code-words) |
 | [1078-remove-outermost-parentheses](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1205-defanging-an-ip-address) |
@@ -115,7 +116,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2886-faulty-keyboard) |
 | [3055-maximum-odd-binary-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3055-maximum-odd-binary-number) |
 | [3379-score-of-a-string](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3379-score-of-a-string) |
-| [3412-permutation-difference-between-two-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3412-permutation-difference-between-two-strings) |
 ## Stack
 |  |
 | ------- |
