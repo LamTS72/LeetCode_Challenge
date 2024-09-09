@@ -14,28 +14,21 @@ class Solution(object):
             return list2
         if list2 is None:
             return list1
-        temp = ListNode()
-        temp = list1
-        if list1.val > list2.val:
-            temp = list2
-            list2 = list2.next
-        else:
-            list1 = list1.next
-        
-        curr = temp
+        dumpy = ListNode()
+        curr = dumpy
         while list1 is not None and list2 is not None:
-            if list1.val > list2.val:
-                curr.next = list2
-                list2 = list2.next
-            else:
+            if list1.val < list2.val:
                 curr.next = list1
                 list1 = list1.next
-
+            else:
+                curr.next = list2
+                list2 = list2.next
             curr = curr.next
-        if list1 is None:
-            curr.next = list2
-        else:
+        if list1 is not None:
             curr.next = list1
         
-        return temp
-        
+        if list2 is not None:
+            curr.next = list2
+
+        return dumpy.next
+
