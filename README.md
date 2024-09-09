@@ -49,24 +49,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0002-add-two-numbers) |
+| [0237-delete-node-in-a-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0908-middle-of-the-linked-list) |
-| [2573-remove-nodes-from-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0002-add-two-numbers) |
-| [2573-remove-nodes-from-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2573-remove-nodes-from-linked-list) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2572-append-characters-to-string-to-make-subsequence) |
-## Stack
-|  |
-| ------- |
-| [2573-remove-nodes-from-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2573-remove-nodes-from-linked-list) |
-## Monotonic Stack
-|  |
-| ------- |
-| [2573-remove-nodes-from-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
