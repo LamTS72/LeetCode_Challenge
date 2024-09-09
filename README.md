@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1839-decode-xored-array) |
 | [1899-count-items-matching-a-rule](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1899-count-items-matching-a-rule) |
+| [1944-truncate-sentence](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1944-truncate-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1899-count-items-matching-a-rule) |
+| [1944-truncate-sentence](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1970-sorting-the-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2219-maximum-number-of-words-found-in-sentences) |
