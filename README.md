@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -144,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
+## Binary Search
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
