@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1217-relative-sort-array) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Math
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0344-reverse-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Stack
 |  |
