@@ -18,16 +18,15 @@ class Solution(object):
                 tmp += curr.val
             if curr.val == 0 and flag_merge == False:
                 flag_merge = True
-            if curr.val == 0 and flag_merge == True:
+            elif curr.val == 0 and flag_merge == True:
                 list_a.append(tmp)
                 tmp = 0
             curr = curr.next
-
+        print(list_a)
         dummy = rhead = ListNode(0)
         for i in range(len(list_a)):
             rhead.next = ListNode(list_a[i])
             rhead = rhead.next
-        dummy = dummy.next
         return dummy.next
             
 
