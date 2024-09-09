@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0908-middle-of-the-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1765-merge-in-between-linked-lists) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
