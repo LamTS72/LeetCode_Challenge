@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2714-left-and-right-sum-differences](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Matrix
+|  |
+| ------- |
+| [2454-largest-local-values-in-a-matrix](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2454-largest-local-values-in-a-matrix) |
 <!---LeetCode Topics End-->
