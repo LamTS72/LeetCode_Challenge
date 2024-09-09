@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3226-minimum-number-game](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3226-minimum-number-game) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3226-minimum-number-game](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3226-minimum-number-game) |
 ## Counting Sort
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2886-faulty-keyboard](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2886-faulty-keyboard) |
+| [3226-minimum-number-game](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3226-minimum-number-game) |
 ## Design
 |  |
 | ------- |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2714-left-and-right-sum-differences) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
