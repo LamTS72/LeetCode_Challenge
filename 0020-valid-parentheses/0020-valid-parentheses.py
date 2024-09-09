@@ -4,20 +4,14 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        stack = []
-        for i in range(len(s)):
-            if s[i] == "(" or s[i] == "{" or s[i] == "[":
-                stack.append(s[i])
+        while True:
+            if "()" in s:
+                s = s.replace("()", "")
+            elif "{}" in s:
+                s = s.replace("{}", "")
+            elif "[]" in s:
+                s = s.replace("[]", "")
             else:
-                if len(stack) == 0:
-                    return False
-                elif s[i] == ")" and stack[-1] == "(":
-                    stack.pop()
-                elif s[i] == "}" and stack[-1] == "{":
-                    stack.pop()
-                elif s[i] == "]" and stack[-1] == "[":
-                    stack.pop()
-                else:
-                    return False
-        return len(stack) == 0
+                return len(s) == 0
+
         
