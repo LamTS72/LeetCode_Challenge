@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2406-decode-the-message](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2406-decode-the-message) |
+| [3412-permutation-difference-between-two-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3412-permutation-difference-between-two-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2886-faulty-keyboard) |
 | [3055-maximum-odd-binary-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3055-maximum-odd-binary-number) |
 | [3379-score-of-a-string](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3379-score-of-a-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3412-permutation-difference-between-two-strings) |
 ## Stack
 |  |
 | ------- |
