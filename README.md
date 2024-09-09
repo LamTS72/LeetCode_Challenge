@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3226-minimum-number-game](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3226-minimum-number-game) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Hash Table
 |  |
