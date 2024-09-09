@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2886-faulty-keyboard](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2886-faulty-keyboard) |
 | [3055-maximum-odd-binary-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3055-maximum-odd-binary-number) |
+| [3379-score-of-a-string](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
