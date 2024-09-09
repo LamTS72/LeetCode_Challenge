@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0822-unique-morse-code-words) |
 | [1217-relative-sort-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1603-running-sum-of-1d-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1603-running-sum-of-1d-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
