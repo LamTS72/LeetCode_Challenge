@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0075-sort-colors) |
+| [0822-unique-morse-code-words](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0822-unique-morse-code-words) |
 | [1217-relative-sort-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1217-relative-sort-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0001-two-sum) |
+| [0822-unique-morse-code-words](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0822-unique-morse-code-words) |
 | [1217-relative-sort-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1217-relative-sort-array) |
 ## Greedy
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0344-reverse-string) |
+| [0822-unique-morse-code-words](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0822-unique-morse-code-words) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Stack
