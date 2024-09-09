@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3055-maximum-odd-binary-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3055-maximum-odd-binary-number) |
 ## Sorting
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3055-maximum-odd-binary-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3055-maximum-odd-binary-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2401-count-asterisks](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2401-count-asterisks) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3055-maximum-odd-binary-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3055-maximum-odd-binary-number) |
 ## Stack
 |  |
 | ------- |
