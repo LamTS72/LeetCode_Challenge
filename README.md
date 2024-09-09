@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1791-richest-customer-wealth](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1791-richest-customer-wealth) |
 | [1839-decode-xored-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1839-decode-xored-array) |
 | [1899-count-items-matching-a-rule](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1944-truncate-sentence) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1791-richest-customer-wealth](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Dynamic Programming
 |  |
