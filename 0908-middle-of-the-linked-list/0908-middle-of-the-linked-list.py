@@ -12,19 +12,19 @@ class Solution(object):
         curr = head
         list_a = []
         while curr is not None:
-            list_a.append(curr)
+            list_a.append(curr.val)
             curr = curr.next
         
         n = len(list_a)/2
         print(n)
         idx = 0
-        curr = head
-        while curr is not None:
+        curr_res = head
+        while curr_res is not None:
             idx += 1
-            curr = curr.next
+            curr_res = curr_res.next
             if idx == n:
                 print(idx)
-                head = list_a[idx]
+                head = curr_res
                 break
         return head
         
