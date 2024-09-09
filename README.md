@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1217-relative-sort-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1241-decompress-run-length-encoded-list) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1505-create-target-array-in-the-given-order) |
 | [1603-running-sum-of-1d-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1505-create-target-array-in-the-given-order](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1505-create-target-array-in-the-given-order) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2886-faulty-keyboard](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3226-minimum-number-game) |
