@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2886-faulty-keyboard](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2886-faulty-keyboard) |
