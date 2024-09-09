@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0908-middle-of-the-linked-list) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0817-design-hashmap) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1013-fibonacci-number) |
 ## String
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1078-remove-outermost-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
