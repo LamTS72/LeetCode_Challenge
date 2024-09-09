@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -255,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0226-invert-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
