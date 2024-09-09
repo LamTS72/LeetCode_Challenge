@@ -13,14 +13,8 @@ class Solution(object):
         """
         if head is None:
             return None
-        curr = ListNode()
-        res = curr
-        while head != None:
-            if head.val != val:
-                curr.next = head
-                curr = curr.next
-            head = head.next
-        curr.next = None
-        return res.next
-
-        
+        if head.val == val:
+            return self.removeElements(head.next, val)
+        else:
+            head.next = self.removeElements(head.next, val)
+        return head
