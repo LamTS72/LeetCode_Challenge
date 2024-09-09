@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0075-sort-colors) |
+| [0344-reverse-string](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0908-middle-of-the-linked-list) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Linked List
@@ -56,5 +57,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->
