@@ -13,8 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-decompress-run-length-encoded-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1241-decompress-run-length-encoded-list) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1505-create-target-array-in-the-given-order) |
-| [1580-shuffle-the-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0822-unique-morse-code-words) |
 | [1217-relative-sort-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2406-decode-the-message](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2406-decode-the-message) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1217-relative-sort-array) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Math
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0002-add-two-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1635-number-of-good-pairs](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
