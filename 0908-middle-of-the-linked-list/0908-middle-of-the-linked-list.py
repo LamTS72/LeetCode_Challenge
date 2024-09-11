@@ -9,22 +9,16 @@ class Solution(object):
         :type head: ListNode
         :rtype: ListNode
         """
+        plist = []
         curr = head
-        list_a = []
-        while curr is not None:
-            list_a.append(curr.val)
+        while curr:
+            plist.append(curr.val)
             curr = curr.next
-        
-        n = len(list_a)/2
-        print(n)
-        idx = 0
-        curr_res = head
-        while curr_res is not None:
-            idx += 1
-            curr_res = curr_res.next
-            if idx == n:
-                print(idx)
-                head = curr_res
-                break
-        return head
+        n = len(plist) // 2
+        pivot = head
+        while n > 0:
+            pivot = pivot.next
+            n -= 1
+        return pivot
+
         
