@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0326-power-of-three) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0344-reverse-string) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0067-add-binary) |
 | [1505-create-target-array-in-the-given-order](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2058-concatenation-of-array) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0231-power-of-two) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1839-decode-xored-array) |
