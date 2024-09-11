@@ -12,9 +12,10 @@ class Solution(object):
         curr = head
         prev = None
         while curr is not None:
-            next_curr = curr.next
+            next = curr.next
             curr.next = prev
             prev = curr
-            curr = next_curr
+            curr = next
         head = prev
         return head
+        
