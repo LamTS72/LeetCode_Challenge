@@ -10,13 +10,13 @@ class Solution(object):
         :type head: ListNode
         :rtype: bool
         """
-        list_a = []
-        curr = head
-        while curr is not None:
-            if curr in list_a:
+        if head is None or head.next is None:
+            return False
+        hashtable = {}
+        while head is not None:
+            if head.next not in hashtable:
+                hashtable[head.next] = 1
+            else:
                 return True
-            list_a.append(curr)
-            curr = curr.next
-        
+            head = head.next
         return False
-        
