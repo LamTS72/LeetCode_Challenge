@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0169-majority-element) |
 | [0733-flood-fill](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0816-design-hashset) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0409-longest-palindrome) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0242-valid-anagram) |
 | [1217-relative-sort-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0383-ransom-note) |
 | [1217-relative-sort-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1217-relative-sort-array) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -323,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0278-first-bad-version) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
