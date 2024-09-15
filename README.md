@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0169-majority-element) |
+| [0542-01-matrix](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0816-design-hashset) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0733-flood-fill) |
 | [1791-richest-customer-wealth](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
