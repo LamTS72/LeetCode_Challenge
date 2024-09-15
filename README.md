@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0822-unique-morse-code-words) |
+| [1014-k-closest-points-to-origin](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1014-k-closest-points-to-origin) |
 | [1217-relative-sort-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1217-relative-sort-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1241-decompress-run-length-encoded-list) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0242-valid-anagram) |
+| [1014-k-closest-points-to-origin](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1014-k-closest-points-to-origin) |
 | [1217-relative-sort-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1014-k-closest-points-to-origin) |
 | [3226-minimum-number-game](https://github.com/LamTS72/LeetCode_Challenge/tree/master/3226-minimum-number-game) |
 ## Backtracking
 |  |
@@ -346,4 +350,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0169-majority-element) |
+| [1014-k-closest-points-to-origin](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
