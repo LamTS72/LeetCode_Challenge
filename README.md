@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0238-product-of-array-except-self) |
 | [0542-01-matrix](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0792-binary-search) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2714-left-and-right-sum-differences) |
 ## Heap (Priority Queue)
