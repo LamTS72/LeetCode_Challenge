@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [1078-remove-outermost-parentheses](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0816-design-hashset](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0817-design-hashmap) |
