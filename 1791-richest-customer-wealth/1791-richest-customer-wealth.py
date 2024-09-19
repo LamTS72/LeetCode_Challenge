@@ -4,10 +4,8 @@ class Solution(object):
         :type accounts: List[List[int]]
         :rtype: int
         """
-        max_res = 0
-        for i in range(len(accounts)):
-            temp = sum(accounts[i])
-            max_res = max(max_res,temp)
-        return max_res
-
+        wealth = sum(accounts[0])
+        for i in range(1, len(accounts)):
+            wealth = max(wealth, sum(accounts[i]))
+        return wealth
         
