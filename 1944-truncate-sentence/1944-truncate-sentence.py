@@ -5,14 +5,10 @@ class Solution(object):
         :type k: int
         :rtype: str
         """
+        list_string = s.split(" ")
         res = ""
-        string_a = s.split()
-        print(string_a)
         for i in range(k):
-            if i == 0:
-                res += string_a[i]
-            else:
-                res += " "
-                res += string_a[i]
+            res += " " if i != 0 else ""
+            res += list_string[i]
         return res
         
