@@ -5,8 +5,8 @@ class Solution(object):
         :type first: int
         :rtype: List[int]
         """
-        res = [first]
-        for i in range(len(encoded)):
-            res.append(res[-1]^encoded[i])
-        return res
+        arr = [first]
+        for i in range(0, len(encoded)):
+            arr.append(arr[-1] ^ encoded[i])
+        return arr
         
