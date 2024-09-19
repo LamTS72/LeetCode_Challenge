@@ -5,14 +5,6 @@ class Solution(object):
         :type ch: str
         :rtype: str
         """
-        res = ""
-        indx = word.find(ch)
-        print(indx)
-        if indx == -1:
-            return word
-        temp2 = word[indx+1:]
-        temp1 = word[indx::-1]
-        res = temp1 + temp2  
-
-        return res
-        
+        idx = word.find(ch)
+        s = word[:idx+1]
+        return s[::-1] + word[idx+1:]
