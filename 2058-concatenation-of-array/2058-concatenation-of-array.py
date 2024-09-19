@@ -4,6 +4,5 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        ans = nums*2
-        return ans
-        
+        nums.extend(nums)
+        return nums
