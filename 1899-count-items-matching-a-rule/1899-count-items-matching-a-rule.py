@@ -6,13 +6,12 @@ class Solution(object):
         :type ruleValue: str
         :rtype: int
         """
-        n = len(items)
         count = 0
-        for i in range(n):
-            if ruleKey == "type" and ruleValue == items[i][0]:
+        for item in items:
+            if "type" == ruleKey and item[0] == ruleValue:
                 count += 1
-            elif ruleKey == "color" and ruleValue == items[i][1]:
+            elif "color" == ruleKey and item[1] == ruleValue:
                 count += 1
-            elif ruleKey == "name" and ruleValue == items[i][2]:
+            elif "name" == ruleKey and item[2] == ruleValue:
                 count += 1
         return count
