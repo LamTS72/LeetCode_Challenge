@@ -4,14 +4,12 @@ class Solution(object):
         :type command: str
         :rtype: str
         """
-        res = ""
-        for i in range(len(command)):
-            if command[i] == "(" and command[i+1] == ")":
-                res += "o"
+        while len(command):
+            if '()' in command:
+                command = command.replace('()', 'o')
+            elif '(' in command:
+                command = command.replace('(', '')
+            elif ')' in command:
+                command = command.replace(')', '')
             else:
-                if command[i] == "(" or command[i] == ")":
-                    continue
-                else:
-                    res += command[i]
-        return res
-        
+                return command           
