@@ -5,11 +5,6 @@ class Solution(object):
         :type word2: List[str]
         :rtype: bool
         """
-        tmp1 = []
-        tmp2 = []
-        for i in range(len(word1)):
-            tmp1 += word1[i] 
-        for i in range(len(word2)):
-            tmp2 += word2[i] 
-
-        return tmp1 == tmp2
+        string1 = ''.join(word1)
+        string2= ''.join(word2)
+        return string1 == string2
