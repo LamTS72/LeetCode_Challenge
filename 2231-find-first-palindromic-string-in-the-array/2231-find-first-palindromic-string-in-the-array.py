@@ -1,12 +1,6 @@
-class Solution(object):
-    def firstPalindrome(self, words):
-        """
-        :type words: List[str]
-        :rtype: str
-        """
-        res = ""
-        for i in words:
-            if i == i[::-1]:
-                return i
-
-        return res
+class Solution:
+    def firstPalindrome(self, words: List[str]) -> str:
+        for w in words:
+            if w[::] == w[::-1]:
+                return w
+        return ""
