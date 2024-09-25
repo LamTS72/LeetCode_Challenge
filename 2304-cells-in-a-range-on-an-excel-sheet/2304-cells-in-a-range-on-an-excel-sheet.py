@@ -1,19 +1,12 @@
-class Solution(object):
-    def cellsInRange(self, s):
-        """
-        :type s: str
-        :rtype: List[str]
-        """
+class Solution:
+    def cellsInRange(self, s: str) -> List[str]:
         res = []
-        min_row = int(s[1])
-        max_row = int(s[-1])
-        max_col = int(ord(s[-2]) - ord(s[0]) + 1)
-        min_col = s[0]
-        for j in range(max_col):
-            for i in range(min_row,max_row+1):
-                string = str(chr(ord(min_col) + j)) + str(i)
+        start_row = int(s[1])
+        end_row = int(s[-1])
+        start_col = s[0]
+        end_col = int(ord(s[-2]) - ord(s[0]) + 1)
+        for i in range(end_col):
+            for j in range(start_row, end_row+1):
+                string = str(chr(ord(start_col) + i)) + str(j)
                 res.append(string)
-        print(res)
         return res
-
-        
