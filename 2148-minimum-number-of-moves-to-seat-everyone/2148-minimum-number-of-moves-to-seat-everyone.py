@@ -1,14 +1,6 @@
-class Solution(object):
-    def minMovesToSeat(self, seats, students):
-        """
-        :type seats: List[int]
-        :type students: List[int]
-        :rtype: int
-        """
-        seats = sorted(seats)
-        students = sorted(students)
-        sum_res = 0
-        for i in range(len(seats)):
-            sum_res += abs(seats[i] - students[i])
-
-        return sum_res
+class Solution:
+    def minMovesToSeat(self, seats: List[int], students: List[int]) -> int:
+        seats.sort()
+        students.sort()
+        res = [abs(i - j) for i,j in zip(seats, students)]
+        return sum(res)
