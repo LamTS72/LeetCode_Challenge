@@ -1,18 +1,12 @@
-class Solution(object):
-    def numberGame(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[int]
-        """
+class Solution:
+    def numberGame(self, nums: List[int]) -> List[int]:
+        n = len(nums) // 2
         res = []
-        n = len(nums)/2
         for i in range(n):
-            min_A = min(nums)
-            nums.remove(min_A)
-            min_B = min(nums)
-            nums.remove(min_B)
-            res.append(min_B)
-            res.append(min_A)
+            temp1 = min(nums)
+            nums.remove(temp1)
+            temp2 = min(nums)
+            nums.remove(temp2)
+            res.append(temp2)
+            res.append(temp1)
         return res
-
-        
