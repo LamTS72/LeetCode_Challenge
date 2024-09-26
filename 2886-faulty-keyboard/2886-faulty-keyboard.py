@@ -1,18 +1,9 @@
-class Solution(object):
-    def finalString(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
-        res = ""
-        n = len(s)
-        for i in range(n):
-            print(s[i])
-            if s[i] == "i":
-                res = res[i::-1]
-                print("rs ",res)
-            else:
-                res += s[i]
-                print("res :",res)
-        return res
-        
+class Solution:
+    def finalString(self, s: str) -> str:
+        num_i = s.count("i")
+        for _ in range(num_i):
+            idx = s.find("i")
+            prefix_s = s[:idx]
+            s = str(prefix_s[::-1]) + s[idx+1:]
+        print(s)
+        return s
