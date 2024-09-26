@@ -1,9 +1,7 @@
-class Solution(object):
-    def leftRightDifference(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[int]
-        """
+class Solution:
+    def leftRightDifference(self, nums: List[int]) -> List[int]:
+        if len(nums) <= 1:
+            return [0]
         res = []
         for i, num in enumerate(nums):
             sumleft = sum(nums[:i])
