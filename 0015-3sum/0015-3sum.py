@@ -5,25 +5,31 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         nums.sort(reverse=False)
+        print(nums)
+        n = len(nums) - 2
+        i = 0
         res = []
-        for i in range(0, len(nums) - 2):
-            l = i + 1
-            r = len(nums) - 1
-            while l < r:
-                total = nums[i] + nums[l] + nums[r]
-                if total < 0:
-                    l = l + 1
-                elif total > 0:
-                    r = r - 1
+        while i < n:
+            if i >= 1 and nums[i] == nums[i-1]:
+                i += 1
+                continue
+            left = i + 1
+            right = len(nums) - 1
+            while left < right:
+                total = nums[i] + nums[left] + nums[right]
+                if total > 0:
+                    right -= 1
+                elif total < 0:
+                    left += 1
                 else:
-                    triplet = [nums[i],nums[l],nums[r]]
-                    res.append(triplet)
-                    while l < r and nums[l] == triplet[1]:
-                        l = l + 1
-                    while l < r and nums[r] == triplet[2]:
-                        r = r - 1
-        res_f = []
-        for item in res:
-            if item not in res_f:
-                res_f.append(item)
-        return res_f
+                    triple0, triple1, triple2 = nums[i], nums[left], nums[right]
+                    res.append([triple0, triple1, triple2])
+                    while left < right and nums[left] == triple1:
+                        left += 1
+                    while left < right and nums[right] == triple2:
+                        right -= 1
+            i += 1
+        print(res)
+
+        return res
+
