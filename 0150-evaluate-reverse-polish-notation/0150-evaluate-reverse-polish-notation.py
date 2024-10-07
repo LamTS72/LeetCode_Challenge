@@ -8,7 +8,7 @@ class Solution:
                 c = self.compute(int(a), int(b), token)
                 stack.append(c)
             else:
-                stack.append(token)
+                stack.append(int(token))
         return stack.pop()
 
     def operator(sefl, op):
