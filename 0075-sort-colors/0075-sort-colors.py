@@ -4,8 +4,8 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         def partition(nums, left, right):
-            pIndex = left
             key = nums[right]
+            pIndex = left
             i = left
             while i < right:
                 if nums[i] < key:
@@ -18,12 +18,12 @@ class Solution:
             nums[pIndex] = nums[right]
             nums[right] = temp
             return pIndex
-        def quick_sort(nums, left, right):
+ 
+        def quicksort(nums, left, right):
             if left < right:
                 p = partition(nums, left, right)
-                quick_sort(nums, left, p - 1)
-                quick_sort(nums, p + 1, right)
-            return nums
-        
-        res = quick_sort(nums, 0, len(nums) - 1)
-        return res
+                quicksort(nums, left, p - 1)
+                quicksort(nums, p + 1, right)
+
+        quicksort(nums, 0, len(nums) - 1)
+        return nums
