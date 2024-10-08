@@ -1,35 +1,22 @@
 # Definition for singly-linked list.
-# class ListNode(object):
+# class ListNode:
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-class Solution(object):
-    def mergeNodes(self, head):
-        """
-        :type head: Optional[ListNode]
-        :rtype: Optional[ListNode]
-        """
-        list_a = []
+class Solution:
+    def mergeNodes(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        check = -1 
         curr = head
-        flag_merge = False
-        tmp = 0
-        while curr is not None:
-            if flag_merge == True:
-                tmp += curr.val
-            if curr.val == 0 and flag_merge == False:
-                flag_merge = True
-            elif curr.val == 0 and flag_merge == True:
-                list_a.append(tmp)
-                tmp = 0
+        dumpy = pivot = ListNode()
+        sump = 0
+        while curr:
+            if curr.val == 0 and check == -1:
+                check = 1
+            elif curr.val == 0 and check == 1:
+                pivot.next = ListNode(sump)
+                pivot = pivot.next
+                sump = 0
+            if curr.val != 0:
+                sump += curr.val
             curr = curr.next
-        print(list_a)
-        dummy = rhead = ListNode(0)
-        for i in range(len(list_a)):
-            rhead.next = ListNode(list_a[i])
-            rhead = rhead.next
-        return dummy.next
-            
-
-
-
-        
+        return dumpy.next
