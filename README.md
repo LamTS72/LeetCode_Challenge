@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0053-maximum-subarray) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0409-longest-palindrome) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0125-valid-palindrome) |
