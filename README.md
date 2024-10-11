@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0817-design-hashmap) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2128-reverse-prefix-of-word) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0739-daily-temperatures) |
 | [2573-remove-nodes-from-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2573-remove-nodes-from-linked-list) |
 ## Binary Search Tree
 |  |
