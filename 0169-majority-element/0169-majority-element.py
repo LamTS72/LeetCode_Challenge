@@ -1,18 +1,14 @@
-class Solution(object):
-    def majorityElement(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        vocab = {}
-        for i in range(len(nums)):
-            if nums[i] in vocab:
-                vocab[nums[i]] += 1
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
+        # Solution:
+        # Requirement: O(n)
+        hashmap = dict()
+        for num in nums: #O(n)
+            if num in hashmap: 
+                hashmap[num] += 1
             else:
-                vocab[nums[i]] = 1
-    
-        res = max(vocab.values())
-        for i in vocab.keys():
-            if vocab[i] == res:
-                return i
-        
+                hashmap[num] = 1
+        freq = max(hashmap.values())
+        for k, v in hashmap.items():
+            if v == freq:
+                return k
