@@ -1,12 +1,12 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        for i in range(0, len(nums) - 1):
-            for j in range(i+1, len(nums)):
-                if nums[i] + nums[j] == target:
-                    return [i,j]
-        return [-1, -1]
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        # Solution: 2 pointers
+        # Requirement: less O(n^2)
+        hashmap = dict()
+        for i, v in enumerate(nums): # O(n)
+            hashmap[v] = i
+        for i, v in enumerate(nums): # O(n)
+            part = target - v
+            if part in hashmap and hashmap[part] != i:
+                return i, hashmap[part]
+                
