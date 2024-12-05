@@ -1,17 +1,20 @@
-class Solution(object):
-    def isValid(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
-        while True:
-            if "()" in s:
-                s = s.replace("()", "")
-            elif "{}" in s:
-                s = s.replace("{}", "")
-            elif "[]" in s:
-                s = s.replace("[]", "")
+class Solution:
+    def isValid(self, s: str) -> bool:
+        # Solution: loop
+        # Requirement: O(n)
+        stack = []
+        for i in range(len(s)):
+            if s[i] in "([{":
+                stack.append(s[i])
             else:
-                return len(s) == 0
-
-        
+                if len(stack) == 0:
+                    return False
+                if s[i] == ")" and stack[-1] == "(":
+                    stack.pop()
+                elif s[i] == "}" and stack[-1] == "{":
+                    stack.pop()
+                elif s[i] == "]" and stack[-1] == "[":
+                    stack.pop()
+                else:
+                    return False
+        return len(stack) == 0
