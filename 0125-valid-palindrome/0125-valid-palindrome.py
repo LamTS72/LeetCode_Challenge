@@ -1,20 +1,18 @@
-class Solution(object):
-    def isPalindrome(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
-        letters = "qwertyuiopasdfghjklzxcvbnm0987654321"
-        s = s.lower()
-        tmp = ""
-        for i in range(0, len(s)):
-            if s[i] in letters:
-                tmp += s[i]
-        n = len(tmp)
-        print(tmp)
-        if n == 1:
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        # Solution: loop
+        # Requirement: O(n)
+        if len(s) == 0 or s == " " or len(s) == 1:
             return True
-        for i in range(0, n):
-            if tmp[i] != tmp[n - 1 - i]:
+        letters = "qwertyuiopasdfghjklzxcvbnm1234567890"
+        letters = set(letters)
+
+        res = ""
+        for i in range(len(s)):
+            if s[i].lower() in letters:
+                res += s[i].lower()
+        print(res)
+        for i in range(len(res)):
+            if res[i] != res[len(res) - 1 - i]:
                 return False
         return True
