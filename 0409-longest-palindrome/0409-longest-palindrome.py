@@ -1,24 +1,21 @@
-class Solution(object):
-    def longestPalindrome(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
-        vocab = {}
+class Solution:
+    def longestPalindrome(self, s: str) -> int:
+        # Solution: loop
+        # Requirement: O(n)
+        if len(s) == 1:
+            return 1
+        hashmap = dict()
         for i in range(len(s)):
-            if s[i] in vocab:
-                vocab[s[i]] += 1
+            if s[i] in hashmap:
+                hashmap[s[i]] += 1
             else:
-                vocab[s[i]] = 1
-        
+                hashmap[s[i]] = 1
         length = 0
-        flag = False
-        for freq in vocab.values():
+        sub = False
+        for k, freq in hashmap.items():
             if freq % 2 == 0:
                 length += freq
             else:
                 length += freq - 1
-                flag = True
-        if flag:
-            length += 1
-        return length
+                sub = True
+        return length + 1 if sub == True else length
