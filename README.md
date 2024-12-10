@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0874-backspace-string-compare](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0908-middle-of-the-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0822-unique-morse-code-words) |
+| [0874-backspace-string-compare](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0739-daily-temperatures) |
+| [0874-backspace-string-compare](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2128-reverse-prefix-of-word) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0067-add-binary) |
+| [0874-backspace-string-compare](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0874-backspace-string-compare) |
 | [1505-create-target-array-in-the-given-order](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2058-concatenation-of-array) |
