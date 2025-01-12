@@ -6,20 +6,20 @@
 #         self.right = right
 class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
-        def height(root):
+        # Solution: Recursive
+        def get_height(root):
             if root is None:
                 return 0
-            lheight = height(root.left)
-            rheight = height(root.right)
-            return 1 + max(lheight, rheight)
-        
+            left_h = get_height(root.left)
+            right_h = get_height(root.right)
+            return 1 + max(left_h, right_h)
+
         if root is None:
             return True
-        
-        LH = height(root.left)
-        RH = height(root.right)
-        balance = LH - RH
-        if balance > 1 or balance < -1:
+        LH = get_height(root.left)
+        RH = get_height(root.right)
+        balanced = LH - RH
+        if balanced > 1 or balanced < -1:
             return False
         if self.isBalanced(root.left) == False or self.isBalanced(root.right) == False:
             return False
