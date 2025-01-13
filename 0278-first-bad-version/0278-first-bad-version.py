@@ -1,24 +1,16 @@
 # The isBadVersion API is already defined for you.
-# @param version, an integer
-# @return a bool
-# def isBadVersion(version):
+# def isBadVersion(version: int) -> bool:
 
-class Solution(object):
-    def firstBadVersion(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
-        low = 1
-        high = n 
-        v = 1
-        
-        while low <= high:
-            mid = (high + low) // 2
-            if isBadVersion(mid) == False :
-                low = mid + 1
+class Solution:
+    def firstBadVersion(self, n: int) -> int:
+        # Solution: binary search
+        # Requirement: O(log(n))
+        left, right, res = 1, n, 1
+        while left <= right:
+            mid = (right + left) // 2
+            if isBadVersion(mid) == False:
+                left = mid + 1
             else:
-                high = mid - 1
-                v = mid
-
-        return v
+                right = mid - 1
+                res = mid
+        return res
