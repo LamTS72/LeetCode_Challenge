@@ -5,6 +5,8 @@ class Solution:
         for i in range(len(nums) - 2):
             left = i + 1
             right = len(nums) - 1
+            if nums[i] == nums[i - 1] and i >= 1:
+                continue
             while left < right:
                 sumt = nums[i] + nums[left] + nums[right]
                 if sumt > 0:
