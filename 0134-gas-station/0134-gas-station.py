@@ -10,5 +10,5 @@ class Solution:
             total_gas += curr_gas
             if curr_gas < 0:
                 curr_gas = 0
-                start_idx += 1
+                start_idx = i + 1
         return start_idx if total_gas >= 0 else -1  
