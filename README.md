@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0322-coin-change) |
 | [0525-contiguous-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0792-binary-search) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0817-design-hashmap) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2714-left-and-right-sum-differences) |
 ## Heap (Priority Queue)
