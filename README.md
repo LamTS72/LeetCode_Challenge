@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0560-subarray-sum-equals-k) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0435-non-overlapping-intervals) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0435-non-overlapping-intervals) |
 | [1014-k-closest-points-to-origin](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1014-k-closest-points-to-origin) |
 | [1217-relative-sort-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1013-fibonacci-number) |
 ## Tree
