@@ -19,6 +19,5 @@ class Solution:
                     res[abs(diff)] = sumt
                     right -= 1
             i += 1
-        print(res)
         return res[min(res)]
                 
