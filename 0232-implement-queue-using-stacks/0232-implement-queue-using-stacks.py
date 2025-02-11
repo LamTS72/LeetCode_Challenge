@@ -1,8 +1,5 @@
 class MyQueue:
-
     def __init__(self):
-        # Solution: loop
-        # Requirement: O(n)
         self.stack_in = []
         self.stack_out = []
 
@@ -11,13 +8,13 @@ class MyQueue:
 
     def pop(self) -> int:
         if len(self.stack_out) == 0:
-            while len(self.stack_in) != 0:
+            while len(self.stack_in) > 0:
                 self.stack_out.append(self.stack_in.pop())
         return self.stack_out.pop()
 
     def peek(self) -> int:
         if len(self.stack_out) == 0:
-            while len(self.stack_in) != 0:
+            while len(self.stack_in) > 0:
                 self.stack_out.append(self.stack_in.pop())
         return self.stack_out[-1]
 
