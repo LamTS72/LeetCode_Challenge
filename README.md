@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/LamTS72/LeetCode_Challenge/tree/master/2573-remove-nodes-from-linked-list) |
 ## String
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0409-longest-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0782-jewels-and-stones) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1078-remove-outermost-parentheses) |
