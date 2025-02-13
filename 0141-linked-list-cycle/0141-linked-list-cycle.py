@@ -8,12 +8,14 @@ class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         if head is None:
             return False
-        hashtable = {}
+
+        hashmap = dict()
         curr = head
         while curr:
-            if curr not in hashtable:
-                hashtable[curr] = 1
+            if curr not in hashmap:
+                hashmap[curr] = 1
             else:
                 return True
+            
             curr = curr.next
         return False
