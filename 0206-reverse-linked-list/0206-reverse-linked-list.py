@@ -5,17 +5,22 @@
 #         self.next = next
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        # Solution: loop
-        # Requirement: O(n)
         if head is None:
             return head
+        
         curr = head
         prev = None
         while curr:
-            curr_next = curr.next
+            next_curr = curr.next
             curr.next = prev
             prev = curr
-            curr = curr_next
-        head = prev
-        return head
-            
+            curr = next_curr
+        self.show(prev)
+        return prev
+
+    def show(self, node):
+        lists = []
+        while node:
+            lists.append(node.val)
+            node = node.next
+        print(lists)         
