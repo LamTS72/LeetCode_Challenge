@@ -15,12 +15,12 @@ class Solution:
             curr.next = prev
             prev = curr
             curr = next_curr
-        self.show(prev)
+        # self.show(prev)
         return prev
 
-    def show(self, node):
-        lists = []
-        while node:
-            lists.append(node.val)
-            node = node.next
-        print(lists)         
+    # def show(self, node):
+    #     lists = []
+    #     while node:
+    #         lists.append(node.val)
+    #         node = node.next
+    #     print(lists)         
