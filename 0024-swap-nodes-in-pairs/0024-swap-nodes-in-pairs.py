@@ -24,14 +24,14 @@ class Solution:
             prev = curr
             curr = node3
 
-        self.show(dumpyNode.next)
+        # self.show(dumpyNode.next)
         return dumpyNode.next
     
-    def show(self, node):
-        curr = node
-        lists = []
-        while curr:
-            lists.append(curr.val)
-            curr = curr.next
-        print(lists)
+    # def show(self, node):
+    #     curr = node
+    #     lists = []
+    #     while curr:
+    #         lists.append(curr.val)
+    #         curr = curr.next
+    #     print(lists)
         
