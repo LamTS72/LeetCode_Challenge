@@ -34,11 +34,11 @@ class Solution:
         
 
 
-    def show(self, node):
-        curr = node
-        lists = []
-        while curr:
-            lists.append(curr.val)
-            curr = curr.next
+    # def show(self, node):
+    #     curr = node
+    #     lists = []
+    #     while curr:
+    #         lists.append(curr.val)
+    #         curr = curr.next
 
-        print(lists)
+    #     print(lists)
