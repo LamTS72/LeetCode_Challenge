@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0238-product-of-array-except-self) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0134-gas-station) |
+| [0179-largest-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0435-non-overlapping-intervals) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/LamTS72/LeetCode_Challenge/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0435-non-overlapping-intervals) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0227-basic-calculator-ii](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0242-valid-anagram) |
