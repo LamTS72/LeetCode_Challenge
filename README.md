@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0817-design-hashmap) |
 ## Number Theory
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0572-subtree-of-another-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -506,4 +510,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0146-lru-cache) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/LamTS72/LeetCode_Challenge/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
