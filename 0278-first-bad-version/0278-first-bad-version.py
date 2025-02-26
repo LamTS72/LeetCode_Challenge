@@ -3,14 +3,13 @@
 
 class Solution:
     def firstBadVersion(self, n: int) -> int:
-        # Solution: binary search
-        # Requirement: O(log(n))
-        left, right, res = 1, n, 1
+        res, left, right = 1, 0, n
         while left <= right:
-            mid = (right + left) // 2
+            mid = (left + right) // 2
             if isBadVersion(mid) == False:
                 left = mid + 1
             else:
                 right = mid - 1
                 res = mid
         return res
+
